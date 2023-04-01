@@ -6,4 +6,3 @@ Add A
 Add C
 Add D
 Add D
-rev
