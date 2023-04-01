@@ -11,3 +11,6 @@ second_stash
 123
 arstasrt
 123
+reset1
+reset2
+reset3
