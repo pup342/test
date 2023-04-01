@@ -12,3 +12,4 @@ second_stash
 arstasrt
 123
 reset_touch 1
+reset_touch 2
