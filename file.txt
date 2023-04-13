@@ -7,7 +7,3 @@ Add C
 Add D
 Add D
 Add D
-123
-123123123
-merge
-merge22
